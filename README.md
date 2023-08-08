@@ -57,7 +57,6 @@ pip install -r requirements.txt
 
 ### Clint Profile
 
-Zachary Brooks /
-Seller
+Jennifer Montgomery / Buyer	
 
-Goal: Invests in historical houses, best neighborhoods, high profits, best timing within a year, should renovate?    
+High budget, wants to show off, timing within a month, waterfront, renovated, high grades, resell within 1 year
