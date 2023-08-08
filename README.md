@@ -54,3 +54,10 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+### Clint Profile
+
+Zachary Brooks /
+Seller
+
+Goal: Invests in historical houses, best neighborhoods, high profits, best timing within a year, should renovate?    
