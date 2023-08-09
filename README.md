@@ -57,6 +57,6 @@ pip install -r requirements.txt
 
 ### Clint Profile
 
-Jennifer Montgomery / Buyer	
+Charles Christensen	/ Seller
 
-High budget, wants to show off, timing within a month, waterfront, renovated, high grades, resell within 1 year
+Invest with big returns, wondering about renovation?, which Neighborhood? Timing?

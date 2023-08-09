@@ -1,36 +1,21 @@
-# Research Questions and Hypotheses for High-Budget Home Buying Analysis - Jennifer Montgomery
 
-## Research Question 1
-**Question:** How does the presence of waterfront views impact the selling price of high-budget homes, considering a targeted purchase timing within a month?
+Can I expect a substantial increase in the property's value after renovation?
+Are renovated homes in high demand?
 
-**Hypothesis 1:** High-budget homes with waterfront views will have higher selling prices on average, aligning with Jennifer Montgomery's targeted purchase timing.
+What is the historical price trend for properties in the neighborhood? Has the area shown consistent appreciation over time?
 
-**Hypothesis 2:** Waterfront views significantly contribute to the perceived value of high-budget homes, particularly within Jennifer Montgomery's specific timing window.
+How does the neighborhood compare to other areas in terms of property prices, demand, and potential buyer demographics?
 
-## Research Question 2
-**Question:** Is there a positive correlation between the number of bathrooms and the selling price of high-budget homes, accounting for resale potential within one year?
+Are there any seasonal trends in property sales? Should I aim to list the property during a specific time of year?
 
-**Hypothesis 1:** High-budget homes with a higher number of bathrooms will command higher selling prices on average, catering to buyers' preferences for luxury and resale potential.
+How quickly do properties in this neighborhood typically sell? Does the timing align with my investment goals?
 
-**Hypothesis 2:** The presence of multiple bathrooms in high-budget homes positively influences their selling prices, especially in the context of Jennifer Montgomery's goal to resell within one year.
+Price Comparison: Compare the median or average prices of renovated and non-renovated homes. This will help you understand the price difference between the two categories and whether renovated homes tend to have higher prices.
 
-## Research Question 3
-**Question:** How does the grade of a high-budget, renovated home impact its resale value, taking into consideration the desired reselling timeline?
+Time on Market: Analyze the time it takes for renovated and non-renovated homes to sell. This can provide insights into the demand for each category and whether renovated homes tend to sell faster.
 
-**Hypothesis 1:** High-budget homes with higher grades (indicating superior construction quality) will exhibit greater resale value, fitting Jennifer Montgomery's goal of reselling within a year.
+Neighborhood Analysis: Investigate whether the demand for renovated homes varies across different neighborhoods. You can calculate the percentage of renovated homes in each neighborhood and see if there are specific neighborhoods where renovation is more common.
 
-**Hypothesis 2:** The grade of a high-budget, renovated home significantly contributes to its resale value, aligning with Jennifer Montgomery's short-term reselling timeline.
+Price Trends by Property Type: Analyzing price trends by different property types (e.g., single-family homes, condos, townhouses) could provide insights into which property types are currently in higher demand and offer better returns on investment.
 
-## Research Question 4
-**Question:** How does the age of a high-budget home correlate with its selling price and demand in the market, accounting for the desired short-term resale timeframe?
-
-**Hypothesis 1:** Newer high-budget homes tend to command higher selling prices and greater demand, particularly in line with Jennifer Montgomery's goal of short-term resale.
-
-**Hypothesis 2:** The age of a high-budget home inversely impacts its selling price and market demand, especially in the context of Jennifer Montgomery's intention to resell within a year.
-
-## Research Question 5
-**Question:** Can the presence of specific neighborhood amenities, such as proximity to schools and recreational facilities, influence the desirability and resale potential of high-budget homes, aligning with Jennifer Montgomery's short-term reselling objective?
-
-**Hypothesis 1:** High-budget homes located near quality schools and popular recreational facilities will exhibit higher desirability and increased resale potential, resonating with Jennifer Montgomery's goal of reselling within a year.
-
-**Hypothesis 2:** Neighborhood amenities, especially schools and recreational facilities, play a pivotal role in enhancing the perceived value and short-term resale potential of high-budget homes, in line with Jennifer Montgomery's objectives.
+Historical Sales Volume: Understanding the historical sales volume in different neighborhoods can help Charles identify areas with consistent demand and popularity.
