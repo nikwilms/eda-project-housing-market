@@ -1,12 +1,36 @@
-# ds-project-template
+# Exploratory Data Analysis Project
 
-Template for creating ds simple projects
+Explore and analyze real estate data to gain insights into property market trends, pricing patterns, and influencing factors. This Exploratory Data Analysis (EDA) project offers an in-depth exploration of property attributes, prices, geographical distribution, and more. By visualizing data, identifying correlations, and examining patterns, this project aims to provide valuable insights that can inform investment decisions, guide renovation strategies, and understand market dynamics.
+
+## Goals
+
+- Conduct thorough exploratory analysis of real estate data.
+- Visualize property market trends and patterns.
+- Identify correlations between different property attributes.
+- Investigate factors influencing property prices.
+- Provide actionable insights for potential investors and homeowners.
 
 ## Requirements
 
 - pyenv
 - python==3.11.3
+- Libraries: pandas, matplotlib, seaborn, numpy, folium
 
+## Getting Started
+
+1. Clone this repository to your local machine.
+2. Set up a virtual environment using `pyenv` and install required packages using `pip`.
+3. Explore the provided datasets and notebooks to understand the data and analysis.
+
+## How to Use
+
+1. Explore the Jupyter notebooks to understand the data preprocessing and analysis steps.
+2. Visualize data trends using Matplotlib and Seaborn.
+3. Analyze geographical distribution using Folium maps.
+4. Gain insights from correlation matrices and visualizations.
+5. Refer to the findings and insights for informed decision-making.
+
+Enjoy your exploratory journey into the real estate market data!
 ## Setup
 
 One of the first steps when starting any data science project is to create a virtual environment. For this project you have to create this environment from scratch yourself. However, you should be already familiar with the commands you will need to do so. The general workflow consists of... 
@@ -24,17 +48,6 @@ pip freeze > requirements.txt
 ```
 
 *Note: In rare case such a requirements file created with `pip freeze` might not ensure that another (especially M1 chip) user can install and execute it properly. This can happen if libraries need to be compiled (e.g. SciPy). Then it also depends on environment variables and the actual system libraries.*
-
-### Unit testing (Optional)
-
-If you write python scripts for your data processing methods, you can also write unit tests. In order to run the tests execute in terminal:
-
-```bash
-pytest
-```
-
-This command will execute all the functions in your project that start with the word **test**.
-
 
 ### Environment
 
@@ -55,8 +68,5 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### Clint Profile
-
-Charles Christensen	/ Seller
-
-Invest with big returns, wondering about renovation?, which Neighborhood? Timing?
+# License
+This project is licensed under the MIT License.
